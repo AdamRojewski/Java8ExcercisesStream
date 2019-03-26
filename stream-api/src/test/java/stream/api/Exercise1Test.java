@@ -53,4 +53,5 @@ public class Exercise1Test extends ClassicOnlineStore {
         assertThat(ages, hasSize(10));
         assertThat(ages, contains(22, 27, 28, 38, 26, 22, 32, 35, 21, 36));
     }
+    //commit
 }
