@@ -55,4 +55,5 @@ public class Exercise1Test extends ClassicOnlineStore {
     }
     //commit
     //second commit
+    //third commit
 }
